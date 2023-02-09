@@ -1,0 +1,206 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(129.86deg, #000000 -20.42%, #004A46 -3.13%, #14292C 24.22%, #33656C 72.75%);
+    color: #FFFFFF;
+}
+
+nav {
+    width: 90%;
+    margin: auto;
+    margin-top: 10px;
+}
+
+nav form input {
+    border-radius: 30px !important;
+}
+
+::-webkit-input-placeholder {
+    /* Chrome/Opera/Safari */
+    font-size: 12px;
+    font-weight: 700;
+}
+
+nav .atual {
+    border-bottom: 1px solid rgba(250, 255, 35, 0.99);
+    padding-bottom: 3px;
+}
+
+nav a {
+    color: #FFFFFF !important;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.nav-link {
+    font-weight: 300;
+    margin: 0 14px;
+}
+
+.navbar-nav {
+    margin: 0;
+}
+
+main {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.second-main {
+    margin: auto;
+    width: 90%;
+    margin-top: 100px;
+    padding-bottom: 80px;
+}
+
+.third-main {
+    margin: auto;
+    width: 90%;
+    padding-bottom: 30px;
+    border-bottom: 1px solid #FFFFFF;
+}
+
+.paralelograma {
+    width: 100px;
+    height: 35px;
+    -webkit-transform: skew(-15deg);
+    transform: skew(-15deg);
+    background: #C30947;
+    font-weight: bold;
+    margin: 0 4px;
+    padding-top: 15px;
+}
+
+.paralelograma-arti {
+    width: 120px;
+    height: 35px;
+    -webkit-transform: skew(-15deg);
+    transform: skew(-15deg);
+    background: #C30947;
+    font-weight: bold;
+    margin: 0 4px;
+    padding-top: 15px;
+}
+
+.paralelograma-terceiro {
+    width: 160px;
+    height: 50px;
+    -webkit-transform: skew(-15deg);
+    transform: skew(-15deg);
+    background: #C30947;
+    font-weight: bold;
+    font-size: 26px;
+    margin: 0 4px;
+    padding-top: 15px;
+}
+
+.assistir {
+    background: #851A4D;
+}
+
+.paralelo {
+    margin-left: 30px;
+    margin-top: -20px;
+}
+
+
+/* .tabela-gols th {
+    font-weight: bold;
+    font-size: 30px;
+} */
+
+table {
+    color: #FFFFFF !important;
+    font-size: 24px;
+    margin-top: 15px;
+    font-weight: bold;
+}
+
+.classific td {
+    padding: 15px 0 10px 0;
+}
+
+.borda {
+    border-left: 1px solid #FFFFFF;
+    padding-left: 45px;
+}
+
+h1 {
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.verde {
+    color: #009C3B;
+}
+
+.amarelo {
+    color: #FFDF00;
+}
+
+.azul {
+    color: #002776;
+}
+
+.branco {
+    color: #FFFFFF;
+}
+
+h2 {
+    font-weight: bold;
+    font-size: 54px;
+}
+
+h3 {
+    font-weight: bold;
+    font-size: 34px;
+}
+
+.bandeira {
+    margin: 50px 0 0 40px;
+}
+
+.elenco {
+    border-right: 2px solid #FFFFFF;
+}
+
+.telas {
+    margin: 20px 0 0 0;
+}
+
+.cor-morata {
+    color: #FF0000;
+}
+
+.cor-mbappe {
+    color: #1B2243;
+}
+
+.veja-mbappe {
+    margin-left: 100px;
+}
+
+.veja-morata {
+    margin-right: 100px;
+}
+
+.paralelograma-gols {
+    width: 150px;
+    height: 40px;
+    -webkit-transform: skew(-15deg);
+    transform: skew(-15deg);
+    background: #000000;
+    font-weight: bold;
+    font-size: 16px;
+    padding-top: 15px;
+}
+
+footer {
+    padding: 200px 0 0 0;
+}
+
+footer p {
+    font-weight: bold;
+}

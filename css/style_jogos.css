@@ -1,0 +1,228 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(129.86deg, #000000 -20.42%, #004A46 -3.13%, #14292C 24.22%, #33656C 72.75%);
+    color: #FFFFFF;
+}
+
+nav {
+    width: 90%;
+    margin: auto;
+    margin-top: 10px;
+}
+
+nav form input {
+    border-radius: 30px !important;
+}
+
+::-webkit-input-placeholder {
+    /* Chrome/Opera/Safari */
+    font-size: 12px;
+    font-weight: 700;
+}
+
+nav .atual {
+    border-bottom: 1px solid rgba(250, 255, 35, 0.99);
+    padding-bottom: 3px;
+}
+
+nav a {
+    color: #FFFFFF !important;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.nav-link {
+    font-weight: 300;
+    margin: 0 14px;
+}
+
+.navbar-nav {
+    margin: 0;
+}
+
+main {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.paralelograma {
+    width: 100px;
+    height: 35px;
+    -webkit-transform: skew(-15deg);
+    transform: skew(-15deg);
+    background: #C30947;
+    font-weight: bold;
+    margin: 0 4px;
+    padding-top: 15px;
+}
+
+.paralelograma-arti {
+    width: 120px;
+    height: 35px;
+    -webkit-transform: skew(-15deg);
+    transform: skew(-15deg);
+    background: #C30947;
+    font-weight: bold;
+    margin: 0 4px;
+    padding-top: 15px;
+}
+
+.assistir {
+    background: #851A4D;
+}
+
+.paralelo {
+    margin-left: 30px;
+    margin-top: -20px;
+}
+
+.main {
+    margin: auto;
+    margin-top: 60px;
+    width: 85%;
+    padding-bottom: 80px;
+    border-bottom: 2px solid #FFFFFF;
+}
+
+.grupos p {
+    color: #185955;
+    background-color: #FFFFFF;
+    border-radius: 100%;
+    width: 25px;
+    font-weight: bold;
+    margin: 0 5px;
+}
+
+.grupos {
+    margin-left: 15px;
+}
+
+.grupos .grupo-g {
+    background-color: #DBFF00;
+}
+
+.name-grupos {
+    margin-bottom: 0;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.imagens-selec {
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.imagens-selec img {
+    margin: 0 8px;
+}
+
+.jogos {
+    margin-bottom: 18px;
+    padding: 8px;
+    border-bottom: 1px solid #FFFFFF;
+}
+
+.jogos p {
+    font-weight: 500;
+    font-style: italic;
+    font-size: 22px;
+    margin: 0 16px;
+}
+
+.all-jogos {
+    margin: 30px 80px;
+}
+
+.live h1 {
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.live {
+    border-left: 1px solid #FFFFFF;
+}
+
+.live-jogo .placar {
+    font-weight: 500;
+    font-style: italic;
+    font-size: 38px;
+    margin: 0 40px;
+}
+
+.live-jogo {
+    margin-bottom: 18px;
+    padding: 0 8px 8px 8px;
+    border-bottom: 1px solid #FFFFFF;
+}
+
+.tempo {
+    font-weight: 500;
+    font-size: 14px;
+    font-style: italic;
+    margin: 0;
+}
+
+.box-live {
+    border: 1px solid #000000;
+    border-radius: 40px;
+    padding: 0 10px;
+    margin: 40px 0;
+}
+
+.cartoes p {
+    margin: 0;
+    font-size: 10px;
+    margin: 0 8px;
+    font-weight: 500;
+}
+
+.cartoes div {
+    padding: 0;
+    margin: 0 24px 4px 24px;
+}
+
+.artilharia table th {
+    font-weight: bold;
+    font-size: 26px;
+}
+
+.cart {
+    margin-bottom: 10px;
+}
+
+.sergio {
+    font-size: 2px;
+}
+
+table {
+    color: #FFFFFF !important;
+    font-size: 20px;
+    margin-top: 15px;
+}
+
+.second-main {
+    margin: auto;
+    width: 90%;
+    margin-top: 100px;
+    padding-bottom: 80px;
+    border-bottom: 2px solid #FFFFFF;
+}
+
+.classific td {
+    padding: 15px 0 10px 0;
+}
+
+.borda {
+    border-right: 1px solid #FFFFFF;
+}
+
+footer {
+    padding: 400px 0 0 0;
+}
+
+footer p {
+    font-weight: bold;
+}
